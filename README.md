@@ -1,4 +1,3 @@
-# MySQL--Leetcode
 # 🐣 Beginner SQL LeetCode Solutions
 
 Hi there! 👋  
