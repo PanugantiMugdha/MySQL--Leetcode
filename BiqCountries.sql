@@ -22,3 +22,6 @@
 -- Return the result table in any order.
 
 -- The result format is in the following example.
+SELECT name, population, area
+FROM World
+WHERE area >= 3000000 OR population >= 25000000;
